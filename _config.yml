@@ -17,16 +17,20 @@ title: Josh's blog
 email: hi@joshpuetz.com
 description: >- # this means to ignore newlines until "baseurl:"
   Coffee, code, and GIFs. Not necessarily in that order.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: joshpuetz
 github_username:  joshpuetz
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
+
+paginate: 5
+
+version: 0.1
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
