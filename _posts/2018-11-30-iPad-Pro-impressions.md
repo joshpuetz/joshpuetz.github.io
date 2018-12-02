@@ -1,6 +1,7 @@
 ---
 title: iPad Pro 12.9 (2018) impressions after three weeks
 date: 2018-11-30
+tags: [ipad]
 ---
 
 To say I'm a fan of the iPad would be an understatement. I've owned almost every iPad since the original model came out all the way back in 2010. The introduction of the iPad Pro in 2015 (along with the introduction of the Apple Pencil and Keyboard Cover) cemented the iPad as my primary non-work computer. Increasingly it's becoming my work computer as well, something I'll write about more in the future.
