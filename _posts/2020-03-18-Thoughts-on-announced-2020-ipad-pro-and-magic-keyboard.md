@@ -2,8 +2,8 @@
 title: Thoughts on announced 2020 iPad Pro and Magic Keyboard
 date: 2020-03-18
 tags: [ipad, news, apple]
-cover_image: https://joshpuetz.com/assets/images/covers/2020-03-18.jpg
-description: Cursors come to iPadOS
+image: https://joshpuetz.com/assets/images/covers/2020-03-18.jpg
+excerpt: Cursors come to iPadOS
 ---
 
 An absolute deluge of iPad announcements were made today, including: 
