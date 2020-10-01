@@ -30,7 +30,7 @@ plugins:
 
 paginate: 5
 
-version: 0.1
+version: 0.2
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
