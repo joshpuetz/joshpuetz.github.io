@@ -23,7 +23,7 @@ We'll be running rain or shine, so check the weather (note this widget show a we
 
 Are you on Strava? Check out the course ahead of time here (and send me your suggestions!):
 
-<code>< Coming Soon ></code>
+<iframe id="strava_embed" width="800" height="1400" frameborder="0" src="https://www.doogal.co.uk/StravaRoute.php?id=https://www.strava.com/routes/2957744268421843064&embed=true"></iframe>
 
 
 Any questions? Hit me up on Twitter: [@joshpuetz](https://twitter.com/joshpuetz)
